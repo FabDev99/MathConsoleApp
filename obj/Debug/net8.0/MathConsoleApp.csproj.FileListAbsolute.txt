@@ -1,0 +1,14 @@
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.AssemblyInfoInputs.cache
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.AssemblyInfo.cs
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.exe
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.deps.json
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.runtimeconfig.json
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.dll
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.pdb
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.dll
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\obj\Debug\net8.0\refint\MathConsoleApp.dll
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.pdb
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.genruntimeconfig.cache
+E:\PROGRAMACION\.Net\Proyectos\MathConsoleApp\obj\Debug\net8.0\ref\MathConsoleApp.dll
